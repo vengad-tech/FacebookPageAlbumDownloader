@@ -16,9 +16,15 @@ clone this repo or download fbdownloader.py
 
 then cd to this directory containing this script , then download  by
 
-python fbdownloader.py https://www.facebook.com/pages/... /home/pictures/
+`python fbdownloader.py <facebook page url> <destination directory>`
+
+example:
+
+`python fbdownloader.py https://www.facebook.com/pages/pagename /home/pictures/`
 
 all images from given page will be downloaded to /home/pictures
+
+Please be patient, because all images from a page need to be downloaded
 
 
 
