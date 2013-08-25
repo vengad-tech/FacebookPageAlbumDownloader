@@ -6,8 +6,7 @@ Using this python script one can download complete images of all albums from a f
 
 Pre Requisite
 -------------
-We need this python module to be installed first to use this script
-[python facebook](https://github.com/pythonforfacebook/facebook-sdk/)
+We need [python facebook](https://github.com/pythonforfacebook/facebook-sdk/) module to be installed first to use this script
 
 Using
 -----
